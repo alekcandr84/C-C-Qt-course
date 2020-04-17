@@ -1,0 +1,13 @@
+#include <stdio.h>
+  int main () 
+  {
+  int i=0;
+  char simb=127;
+  printf("simb:%d\n",simb);
+  printf("simb:%c\n",simb);
+ simb++;
+  printf("simb:%c\n",simb);
+  printf("simb:%d\n",simb);
+for (i=0;i<0;i++)
+{ printf("simb:\n");}
+ return 0;}
