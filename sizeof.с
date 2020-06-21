@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h> // для sprintf
+#include <string.h>
 int size_file (FILE* name_fp);
 int main()
 {
